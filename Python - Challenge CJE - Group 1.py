@@ -28,7 +28,7 @@ import concurrent.futures
 
 # Constants
 GITHUB_URL = 'https://raw.githubusercontent.com/josevictorsl/challengecje/main/Fabricas.xlsx'
-API_KEY_GOOGLE_MAPS = 'AIzaSyC387_LC7K6eF-2lDglf7EPgrcMluIlAZY'
+API_KEY_GOOGLE_MAPS = 'insira sua chave'
 MAJOR_PORTS = {
     "Argentina": "Port of Buenos Aires, Argentina",
     "Bosnia": "Port of Ploče, Bosnia",
